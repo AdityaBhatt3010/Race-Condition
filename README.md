@@ -6,8 +6,6 @@ Race conditions are among the most subtle yet impactful vulnerabilities in moder
 
 In this lab, we explore how race conditions occur, understand the underlying concepts like threads and processes, and finally exploit the vulnerability using **Burp Suite Repeater** to manipulate application logic.
 
-🔗 **Lab Link:** [https://tryhackme.com/room/raceconditionsattacks](https://tryhackme.com/room/raceconditionsattacks)
-
 ![Cover](Race_Condition/Cover.jpeg)
 
 ---
